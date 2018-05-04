@@ -1,4 +1,4 @@
-'''num normer'''
+'''Time normer'''
 
 index = []
 
